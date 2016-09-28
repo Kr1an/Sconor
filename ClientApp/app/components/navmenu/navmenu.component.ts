@@ -6,4 +6,6 @@ import { Component } from '@angular/core';
     styles: [require('./navmenu.component.css')]
 })
 export class NavMenuComponent {
+	constructor() {		
+	}
 }
